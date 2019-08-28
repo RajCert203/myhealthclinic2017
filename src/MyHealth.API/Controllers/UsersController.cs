@@ -15,7 +15,7 @@ using MyHealth.API.Validators;
 
 namespace MyHealth.API.Controllers
 {
-    // Comment added 	
+    // Comment added 28/08/2019 14:47 	
     public struct ApplicationUserAddRequest
     {
         public ApplicationUser user { get; set; }
